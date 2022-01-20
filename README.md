@@ -1,2 +1,3 @@
 # Python_SimplePong
-Learn to code in projects
+
+Learning to code in projects
